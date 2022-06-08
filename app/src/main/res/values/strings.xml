@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw1KOTLIN1</string>
+    <string name="text">Введите текст</string>
+    <string name="start">Start</string>
+    <string name="pishi">Пиши!!!!</string>
+    <string name="key">key</string>
+</resources>
